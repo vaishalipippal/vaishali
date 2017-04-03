@@ -1,2 +1,0 @@
-# vaishali
-My projects
